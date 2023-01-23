@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="400px" height="400px" viewBox="0 0 550 550" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>hero</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="hero-post-1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="BG" sketch:type="MSLayerGroup" transform="translate(0, 0)">
+            <g id="Planets" transform="translate(0, 0.0)" sketch:type="MSShapeGroup">
+                <g id="Left-Big" transform="translate(0.750000, 0.522007)">
+                    <g id="Circles" transform="translate(0.628245, 0.487764)" stroke="#C98C81">
+                        <ellipse id="Overlay" stroke-width="2" opacity="0.279500933" cx="269.478582" cy="270.279593" rx="269.472879" ry="269.472879"></ellipse>
+                        <ellipse id="Overlay" stroke-width="4" opacity="0.274195429" cx="269.478582" cy="270.279593" rx="194.999254" ry="194.999254"></ellipse>
+                        <ellipse id="Overlay" stroke-width="6" opacity="0.291511194" cx="269.478582" cy="270.279593" rx="143.94556" ry="143.94556"></ellipse>
+                    </g>
+                    <path d="M162.254139,272.284968 C162.254139,331.71752 210.408017,379.89688 269.809135,379.89688 C329.210254,379.89688 377.364132,331.71752 377.364132,272.284968 C377.364132,212.852416 329.210254,164.673056 269.809135,164.673056 C210.408017,164.673056 162.254139,212.852416 162.254139,272.284968 Z" id="Planet" fill="#72ACAB"></path>
+                    <path d="M428.215295,340.494549 C428.215295,352.793734 438.18043,362.764142 450.47311,362.764142 C462.765789,362.764142 472.730924,352.793734 472.730924,340.494549 C472.730924,328.195365 462.765789,318.224956 450.47311,318.224956 C438.18043,318.224956 428.215295,328.195365 428.215295,340.494549 Z" id="Planet" fill="#C98C81"></path>
+                    <path d="M322.966118,395.756697 C322.966118,403.096532 328.913053,409.046615 336.249007,409.046615 C343.584961,409.046615 349.531896,403.096532 349.531896,395.756697 C349.531896,388.416861 343.584961,382.466778 336.249007,382.466778 C328.913053,382.466778 322.966118,388.416861 322.966118,395.756697 Z" id="Planet" fill="#C98C81"></path>
+                    <path d="M79.4278343,471.331158 C79.4278343,478.670993 85.3747698,484.621076 92.7107236,484.621076 C100.046677,484.621076 105.993613,478.670993 105.993613,471.331158 C105.993613,463.991322 100.046677,458.041239 92.7107236,458.041239 C85.3747698,458.041239 79.4278343,463.991322 79.4278343,471.331158 Z" id="Planet" fill="#79A69F"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

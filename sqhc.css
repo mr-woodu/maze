@@ -1,0 +1,30 @@
+
+.hidden {display:none}
+
+
+
+/* FONT PATH
+ * -------------------------- */
+ 
+@font-face {
+  font-family: 'infinity';
+  src: url('./fonts/infinityicons2-webfont.woff') format('woff'); 
+  font-weight: normal;
+  font-style: normal;
+}
+
+ @font-face {
+  font-family: 'FontRunes';
+  src: url('./fonts/Zarathustra.ttf') format('truetype'); 
+  src: url('./fonts/Zarathustra.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.runes {
+  display: inline-block;
+  font-family: infinity;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} 
